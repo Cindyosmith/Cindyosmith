@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cindyosmith
 - 👀 I’m interested in network  and infrastructure automation
-- 🌱 I’m currently learning everyting I can on improving network and infrastructure automaition in the cloud
+- 🌱 I’m currently learning everyting I can on improving network and infrastructure automation in the cloud
 - 💞️ I’m looking to collaborate on  new opportunities  
 - 📫 How to reach me ... cindyosmith@me.com
 
